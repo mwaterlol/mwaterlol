@@ -11,6 +11,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"  title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg"  title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg"  title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"  title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
